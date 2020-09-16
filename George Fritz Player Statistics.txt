@@ -1,0 +1,15 @@
+Name: George Fritz
+Code Name: Leopard
+Faction Group: Media College
+Level: 80
+Role: Mage
+Strength:{O}{O}{O}{ }{ }
+Health: {O}{O}{O}{ }{ }
+Defence: {O}{O}{ }{ }{ }
+Agility and Evasiveness: {O}{O}{O}{O}{O}
+Magic: {O}{O}{O}{O}{O}
+Weapons and/or Tools: Healing wand, Book of advanced spells, Dragontooth Dagger, Bow of the wanderer.
+Nature: Passive until provoked, always hostile towards opposing factions.
+Spawn Location: Any turf owned by the Media College faction.
+Danger level (Solo): {O}{O}{O}{ }{ }
+Danger level (In group fight): {O}{O}{O}{O}{O}

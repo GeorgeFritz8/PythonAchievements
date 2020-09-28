@@ -31,15 +31,28 @@ else:
     print("Score: ", score)
     print("\n")
 
+if score <= 1:
+# QUESTION 2.5
+  answer25 = input("-Wat is de naam van mijn hond?- \nA. Biggie \nB. Cheppie \nC. Charley \nAnswer: ")
+  if answer25 == "C" or answer25 == "Charley":
+    score += 1
+    print("Correct! De naam van mijn hond is Charley. Cheppie was de naam van mijn vaders hond en Biggie was Charley's kennel naam")
+    print("Score: ", score)
+    print("\n")
+  else:
+    print("Fout! Het antwoord was C. Charley")
+    print("Score: ", score)
+    print("\n")
 
+if score >= 2:
 # QUESTION 3
-answer3 = input("-Op welke sport zit ik?- \nA. Voetbal \nB. Roeien \nC. Hockey \nAnswer: ")
-if answer3 == "B" or answer3 == "Roeien":
+  answer3 = input("-Op welke sport zit ik?- \nA. Voetbal \nB. Roeien \nC. Hockey \nAnswer: ")
+  if answer3 == "B" or answer3 == "Roeien":
     score += 1
     print("Correct! Ik zit op roeien voor minimaal 4 jaar al. Ik train op de Willem III roeivereniging en doe vaak mee aan wedstrijden.")
     print("Score: ", score)
     print("\n")
-else:
+  else:
     print("Fout! Het antwoord was B. Roeien.")
     print("Score: ", score)
     print("\n")
